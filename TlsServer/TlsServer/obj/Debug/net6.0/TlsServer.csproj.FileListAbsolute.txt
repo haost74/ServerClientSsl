@@ -1,0 +1,12 @@
+C:\Users\haost\Desktop\Tls\TlsServer\TlsServer\bin\Debug\net6.0\TlsServer.deps.json
+C:\Users\haost\Desktop\Tls\TlsServer\TlsServer\bin\Debug\net6.0\TlsServer.dll
+C:\Users\haost\Desktop\Tls\TlsServer\TlsServer\bin\Debug\net6.0\ref\TlsServer.dll
+C:\Users\haost\Desktop\Tls\TlsServer\TlsServer\bin\Debug\net6.0\TlsServer.pdb
+C:\Users\haost\Desktop\Tls\TlsServer\TlsServer\obj\Debug\net6.0\TlsServer.GlobalUsings.g.cs
+C:\Users\haost\Desktop\Tls\TlsServer\TlsServer\obj\Debug\net6.0\TlsServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haost\Desktop\Tls\TlsServer\TlsServer\obj\Debug\net6.0\TlsServer.AssemblyInfoInputs.cache
+C:\Users\haost\Desktop\Tls\TlsServer\TlsServer\obj\Debug\net6.0\TlsServer.AssemblyInfo.cs
+C:\Users\haost\Desktop\Tls\TlsServer\TlsServer\obj\Debug\net6.0\TlsServer.csproj.CoreCompileInputs.cache
+C:\Users\haost\Desktop\Tls\TlsServer\TlsServer\obj\Debug\net6.0\TlsServer.dll
+C:\Users\haost\Desktop\Tls\TlsServer\TlsServer\obj\Debug\net6.0\ref\TlsServer.dll
+C:\Users\haost\Desktop\Tls\TlsServer\TlsServer\obj\Debug\net6.0\TlsServer.pdb

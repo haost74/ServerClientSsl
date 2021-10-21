@@ -1,0 +1,12 @@
+C:\Users\haost\Desktop\Tls\TlsServer\TlsClient\bin\Debug\net6.0\TlsClient.deps.json
+C:\Users\haost\Desktop\Tls\TlsServer\TlsClient\bin\Debug\net6.0\TlsClient.dll
+C:\Users\haost\Desktop\Tls\TlsServer\TlsClient\bin\Debug\net6.0\ref\TlsClient.dll
+C:\Users\haost\Desktop\Tls\TlsServer\TlsClient\bin\Debug\net6.0\TlsClient.pdb
+C:\Users\haost\Desktop\Tls\TlsServer\TlsClient\obj\Debug\net6.0\TlsClient.GlobalUsings.g.cs
+C:\Users\haost\Desktop\Tls\TlsServer\TlsClient\obj\Debug\net6.0\TlsClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\haost\Desktop\Tls\TlsServer\TlsClient\obj\Debug\net6.0\TlsClient.AssemblyInfoInputs.cache
+C:\Users\haost\Desktop\Tls\TlsServer\TlsClient\obj\Debug\net6.0\TlsClient.AssemblyInfo.cs
+C:\Users\haost\Desktop\Tls\TlsServer\TlsClient\obj\Debug\net6.0\TlsClient.csproj.CoreCompileInputs.cache
+C:\Users\haost\Desktop\Tls\TlsServer\TlsClient\obj\Debug\net6.0\TlsClient.dll
+C:\Users\haost\Desktop\Tls\TlsServer\TlsClient\obj\Debug\net6.0\ref\TlsClient.dll
+C:\Users\haost\Desktop\Tls\TlsServer\TlsClient\obj\Debug\net6.0\TlsClient.pdb

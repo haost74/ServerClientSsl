@@ -1,0 +1,11 @@
+
+Нет необходимости использовать какие-либо сторонние инструменты (включая OpenSSL) в Windows. Вы можете использовать встроенный certutil.exeинструмент. 
+Поместите оба файла в одну папку и дайте файлам одно и то же имя (например, server.cerи server.key) и выполните следующую команду:
+
+certutil -mergepfx path\server.cer
+
+certutil -MergePFX server.crt server.pfx  
+
+Certutil ожидает найти ключевой файл в той же папке с .keyрасширением файла.
+
+https://github.com/haost74/SrverClientTls.git
